@@ -1,2 +1,0 @@
-# NotesKeeper
-Note taking app. 
